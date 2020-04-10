@@ -17,4 +17,4 @@ mvn clean install
 5. If the biuld is sucessfull then run the following command
 ```
 jar -tf JavaFirstProject-1.0-SNAPSHOT.jar
-~~~
+```
